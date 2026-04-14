@@ -1,11 +1,5 @@
 name: 刷课
 
-on: 
-  push:
-分支: [ main ]
-  # 是否开始每天8点定时刷课，若要开启请把下面两行前面的 '#' 删掉
-  # schedule:
-  #   - cron: "0 8 * * *" 
     
 jobs: 
   Start:
