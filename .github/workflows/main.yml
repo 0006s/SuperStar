@@ -23,4 +23,4 @@ jobs:
           pip install -r ./requirements.txt 
           
       - name: Run main.py
-        run: python main.py -u 13729272211 -p ab88805668 -l 216109376
+        run: python main.py -u 15536631913 -p miku070831 -l 216109376
